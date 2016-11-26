@@ -1,4 +1,4 @@
-#  JianShi 简诗
+#  JianShi 简诗 bing
 
 A Full-Stack mobile app, including Android side & Server side, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style. It supports signup & login, data sync with server, offline data storage, screenshot share etc.
 
